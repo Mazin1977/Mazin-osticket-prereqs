@@ -54,7 +54,17 @@ as shown above.
 <img src="https://i.imgur.com/n4byQoF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+Create the directory C:\PHP
+download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+download and install VC_redist.x86.exe.
+download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Typical Setup ->
+Launch Configuration Wizard (after install) ->
+Standard Configuration ->
+Password1
+as shown above
 </p>
 <br />
 
