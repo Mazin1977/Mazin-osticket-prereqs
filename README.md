@@ -40,12 +40,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/iCfYqXM.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create an Azure Virtual Machine,Name: Vm-osticket
-Username: labuser (for example/whatever you chose)
-Password: osTicketPassword1! (for example/whatever you chose)
-open Vm-osticket in Remot Desdtop RDP.
-Install / Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CGI
+Create an Azure Virtual Machine,Name: Vm-osticket,
+Username: labuser (for example/whatever you chose),
+Password: osTicketPassword1! (for example/whatever you chose),
+Open Vm-osticket in Remot Desdtop RDP.
+Install / Enable IIS in Windows WITH CGI,
+World Wide Web Services -> Application Development Features -> [X] CGI,
 as shown above.
 </p>
 <br />
@@ -54,12 +54,12 @@ as shown above.
 <img src="https://i.imgur.com/n4byQoF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
-download and install the Rewrite Module (rewrite_amd64_en-US.msi)
-Create the directory C:\PHP
-download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
-download and install VC_redist.x86.exe.
-download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi),
+Download and install the Rewrite Module (rewrite_amd64_en-US.msi),
+Create the directory C:\PHP,
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+Download and install VC_redist.x86.exe.
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup ->
 Launch Configuration Wizard (after install) ->
 Standard Configuration ->
