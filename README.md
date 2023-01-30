@@ -59,14 +59,20 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi) as shown above
 
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/iSMYR2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FT6hoJn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create the directory C:\PHP,
 Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
-Download and install VC_redist.x86.exe.
+Download and install VC_redist.x86.exe. as shown above
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/iSMYR2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup ->
 Launch Configuration Wizard (after install) ->
