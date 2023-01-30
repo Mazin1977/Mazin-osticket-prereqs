@@ -51,11 +51,19 @@ as shown above.
 <br />
 
 <p>
-<img src="https://i.imgur.com/n4byQoF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8xVdH9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi),
-Download and install the Rewrite Module (rewrite_amd64_en-US.msi),
+Download and install the Rewrite Module (rewrite_amd64_en-US.msi) as shown above.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/iSMYR2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Create the directory C:\PHP,
 Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 Download and install VC_redist.x86.exe.
@@ -65,13 +73,6 @@ Launch Configuration Wizard (after install) ->
 Standard Configuration ->
 Password1
 as shown above
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/iSMYR2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Open IIS as an Admin.
 Register PHP from within IIS as shown above.
 Reload IIS (Open IIS, Stop and Start the server)
