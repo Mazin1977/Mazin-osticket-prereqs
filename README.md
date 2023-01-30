@@ -64,8 +64,8 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi) as shown above
 </p>
 <p>
 Create the directory C:\PHP,
-Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
-Download and install VC_redist.x86.exe. as shown above
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP,
+Download and install VC_redist.x86.exe. as shown above.
 </p>
 <br />
 <p>
@@ -73,12 +73,12 @@ Download and install VC_redist.x86.exe. as shown above
 </p>
 <p>
 
-Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-Typical Setup ->
-Launch Configuration Wizard (after install) ->
-Standard Configuration ->
-Password1
-as shown above
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi),
+Typical Setup ->,
+Launch Configuration Wizard (after install) ->,
+Standard Configuration ->,
+Password1,
+as shown above,
 Open IIS as an Admin.
 Register PHP from within IIS as shown above.
 Reload IIS (Open IIS, Stop and Start the server)
