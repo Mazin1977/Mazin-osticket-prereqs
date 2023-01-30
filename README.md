@@ -103,6 +103,12 @@ Enable: php_imap.dll,
 Enable: php_intl.dll,
 Enable: php_opcache.dll,
 Refresh the osTicket site in your browse, observe the changes,
+</p>
+
+<p>
+<img src="https://i.imgur.com/GWYAcdt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Rename: ost-config.php,
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php,
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php,
@@ -123,5 +129,4 @@ MySQL Username: root,
 MySQL Password: Password1,
 Click “Install Now!”..
 Congratulations, hopefully it is installed with no errors!
-
 </p>
